@@ -1,0 +1,10 @@
+projectName,vehicleName,initJunctionName,endJunctionName,energyConsumption,travelTime,tollCost,path
+project 1,Vehicle-1,a,d,0.0,0.0,0.0,[RoadName: n/a
+REGULAR
+Begin: a
+End: c
+, RoadName: n/a
+REGULAR
+Begin: c
+End: d
+]
